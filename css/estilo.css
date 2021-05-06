@@ -1,0 +1,36 @@
+body
+{
+margin: 0;
+padding: 0;
+background-position: center;
+background: url(../Imagenes/3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.titulo 
+{
+font-style: italic;
+color: red;
+font-size: 80px;
+}
+.parrafos
+{
+color: white;
+text-align: justify;
+margin-right:700px;
+font-size: 30px;
+}
+.imagen2
+{
+text-align: right;
+margin-right:110px;
+margin-top: -700px;
+margin-bottom: 150px;
+}
+.videos
+{
+text-align: center;
+float:  right;
+margin-right:100px;
+}
