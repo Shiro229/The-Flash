@@ -13,6 +13,7 @@ background-attachment: fixed;
 font-style: italic;
 color: red;
 font-size: 80px;
+text-shadow: black 6px 6px 2px;
 }
 .parrafos
 {
@@ -21,12 +22,33 @@ text-align: justify;
 margin-right:700px;
 font-size: 30px;
 }
+.tituloba
+{
+color: white;
+text-align: justify;
+margin-left: :700px;
+font-size: 50px;
+}
+.parrafosba
+{
+color: white;
+text-align: justify;
+margin-left:700px;
+font-size: 30px;
+}
+.imagen1
+{
+text-align: left;
+margin-left:-650px;
+margin-top: 100px;
+
+}
 .imagen2
 {
 text-align: right;
 margin-right:110px;
-margin-top: -700px;
-margin-bottom: 200px;
+margin-top: -1000px;
+margin-bottom: 300px;
 }
 .videos
 {
